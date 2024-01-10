@@ -145,3 +145,6 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
+
+
+EXTRA CREDIT: The developer option that I chose was pointer location. This option draws a tracer line indicating where the screen has been touched. I believe this feature could be helpful when testing the interactivity of the website. For example, this feature would be helpful to check if my app buttons work on a physical android device. So to conclude, this is a feature that I see myself using throughout the quarter.
